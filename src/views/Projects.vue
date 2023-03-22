@@ -30,7 +30,7 @@
         class="rounded-t-lg"
         src="../assets/projects/sandminejs.png"
         alt="sandminejs" />
-        <GithubOverlayBtn />
+      
     </a>
     
     <div class="p-6">
